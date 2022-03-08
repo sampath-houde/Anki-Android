@@ -199,6 +199,7 @@
     <string name="card_browser_deck_change_error">Nelze změnit balíček</string>
     <!-- AbstractFlashCardViewer -->
     <string name="card_viewer_url_decode_error">Chyba při dekódování dat z karty</string>
+    <string name="undo_succeeded">Undone \"%s\"</string>
     <!-- Deck Options -->
     <string name="deck_options_corrupt">Nepodařilo se zpracovat možnosti balíčku: %s</string>
     <!-- Database Errors-->
